@@ -1,0 +1,18 @@
+table {
+  margin: auto;
+  box-shadow: 10px 10px 5px #aaaaaa;
+  margin-bottom: 10px;
+}
+
+tr th,
+tr td {
+  border: 1px double #c7c7c7;
+}
+
+tr th {
+  padding: 1%;
+}
+
+.tableComponent {
+  margin: auto;
+}
