@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+select,
+button {
+  padding: 10px;
+  margin: 10px;
+}
+
+.fallbackUI {
+  text-align: center;
+}
